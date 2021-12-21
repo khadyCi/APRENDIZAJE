@@ -1,0 +1,8 @@
+Lin_1:https://styde.net/curso-de-vue-2/
+
+
+
+
+*************Crear Poyecto En Vue Cli 2 *****************
+Commando: yarn global add @vue/cli
+proyecto: vue create nbre proyecto

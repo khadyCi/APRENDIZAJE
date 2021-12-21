@@ -1,0 +1,19 @@
+Link_1:https://www.youtube.com/watch?v=zJkPhjjOZ0A
+Link_2:https://scrimba.com/learn/vuex
+
+
+
+
+
+
+********** Notas *********
+Vuex = Flux = Redux = la arquitectura de Elm
+
+*********** VUEX **********
+Link: https://www.youtube.com/watch?v=At95xz6i3GI
+MUTACION: Les mutación est le seule endrot oú on peut altere notre state (estado).c'esta d dire si on veut seleccion un donné especifique
+
+NB: para llamar una mutacion usamos : this.$store.commit('nombre metodo en la parte mutacion en store/main.js ', 'si hay parametros que pasar')
+    para llamar una action usamos: this.$store.dispatch('nombre metodo en la parte action en store/main.js ', 'si hay parametros que pasar')
+
+

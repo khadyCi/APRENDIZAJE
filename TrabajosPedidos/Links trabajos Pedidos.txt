@@ -1,0 +1,6 @@
+*********** Importar Datos De CSV a Mysql**************
+Link_1:https://www.youtube.com/watch?v=qhLrZXEa1wE
+
+
+***Convertir datos de mysql a graficos con vuechart******
+Link_1:https://www.youtube.com/watch?v=pXpzr4GTeqg
